@@ -1,0 +1,28 @@
+*{
+  background-color: #CED6BF;
+  font-family: monospace;
+}
+.nav-bar li{
+  list-style: none;
+  padding-top: 10px;
+
+}
+.nav-bar a:hover {
+  color: gray;
+}
+li {
+  list-style: none;
+}
+h1 {
+  text-align: center;
+}
+#ced-btn {
+background-color: #71BF50;
+border-radius: 5px;
+border: none;
+padding: 5px;
+box-shadow: 10px 5px #8E948C;
+}
+.btn {
+  text-align: center;
+}
