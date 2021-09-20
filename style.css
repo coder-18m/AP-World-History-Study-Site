@@ -1,0 +1,15 @@
+*{
+  background-color: #CED6BF;
+  font-family: monospace;
+}
+.nav-bar li{
+  list-style: none;
+  padding-top: 10px;
+
+}
+.nav-bar a:hover {
+  color: gray;
+}
+li {
+  list-style: none;
+}
